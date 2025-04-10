@@ -1,0 +1,2 @@
+import{d as o,a3 as a,o as c,c as i,v as u,n as l,e as _,_ as m}from"./DMNZWCky.js";const r=o({__name:"SubmitButton",props:{inactive:{type:Boolean,default:!1}},setup(e){const s=e,{inactive:n}=a(s);return(t,v)=>(c(),i("button",{class:l([t.$style["submit-button"],_(n)&&t.$style.inactive])},[u(t.$slots,"default")],2))}}),p="_inactive_11464_43",b="_getWonItem_11464_64",f={"submit-button":"_submit-button_11464_27",inactive:p,getWonItem:b},d={$style:f},B=m(r,[["__cssModules",d]]);export{B as S};
+//# sourceMappingURL=DU3YPvLd.js.map

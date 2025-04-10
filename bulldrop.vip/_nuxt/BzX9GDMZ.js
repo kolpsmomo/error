@@ -1,0 +1,2 @@
+import{_ as e,o,c as a,b as c,n as s}from"./DMNZWCky.js";const _="_spin_1vd26_1",i={"loading-spinner-container":"_loading-spinner-container_1vd26_27","loading-spinner":"_loading-spinner_1vd26_27",spin:_},r={};function l(n,p){return o(),a("span",{class:s(n.$style["loading-spinner-container"])},[c("span",{class:s(n.$style["loading-spinner"])},null,2)],2)}const t={$style:i},g=e(r,[["render",l],["__cssModules",t]]);export{g as _};
+//# sourceMappingURL=BzX9GDMZ.js.map

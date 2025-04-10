@@ -1,0 +1,2 @@
+import{au as d,G as n}from"./DMNZWCky.js";const l=d("phoneVerifyStore",()=>{const e=n(!1),o=n(!1);function t(){document.documentElement.style.overflow="hidden",e.value=!0}function i(){e.value=!1,document.documentElement.style.overflow=""}function r(){document.documentElement.style.overflow="hidden",o.value=!0}function u(){o.value=!1,document.documentElement.style.overflow=""}return{verifyWindowIsRequired:e,ReVerifyWindowIsRequired:o,showReVerifyWindow:r,hideReVerifyWindow:u,showVerifyWindow:t,hideVerifyWindow:i}});export{l as u};
+//# sourceMappingURL=7FvrtWKi.js.map

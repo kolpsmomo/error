@@ -1,0 +1,2 @@
+import{d as t,o as a,c as i,b as m,v as l,n as o,R as c,_ as f}from"./DMNZWCky.js";const p=t({__name:"Container",emits:["hide-form"],setup(y,{emit:r}){const n=r;return(e,s)=>(a(),i("div",{class:o(e.$style["form-wrapper"])},[m("div",{class:o(e.$style["form-container"]),onClick:s[0]||(s[0]=c(u=>n("hide-form"),["self"]))},[l(e.$slots,"default")],2)],2))}}),_={"form-wrapper":"_form-wrapper_mnyzy_27","form-container":"_form-container_mnyzy_44"},d={$style:_},$=f(p,[["__cssModules",d]]);export{$ as default};
+//# sourceMappingURL=DJLNeVxQ.js.map

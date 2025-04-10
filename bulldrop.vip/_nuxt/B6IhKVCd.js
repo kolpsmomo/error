@@ -1,0 +1,2 @@
+import{_ as p}from"./KRoR9ANY.js";import{d as r,l as n,o as a,c as _,w as u,n as c,e as d,_ as l}from"./DMNZWCky.js";const i=r({__name:"SupportWidget",setup(f){const e=n();return(o,t)=>{const s=p;return a(),_("button",{class:c(o.$style["support-widget"]),"data-test":"supportWidget","data-target":"sipport-widget",onClick:t[0]||(t[0]=w=>d(e).openSupport())},[u(s)],2)}}}),m={"support-widget":"_support-widget_6hlw2_27"},g={$style:m},x=l(i,[["__cssModules",g]]);export{x as default};
+//# sourceMappingURL=B6IhKVCd.js.map

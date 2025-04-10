@@ -1,0 +1,32 @@
+{
+  "short_name": "Bulldrop",
+  "name": "Bulldrop",
+  "icons": [
+    {
+      "src": "/pwa-64x64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/maskable-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#fff"
+}

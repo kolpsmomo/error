@@ -1,0 +1,2 @@
+import{d as c,G as f,b0 as i,s as _}from"./DMNZWCky.js";const v=c({emits:{error(a){return!0}},setup(a,{slots:r,emit:p}){const n=f(null),o=_();i((e,u,d)=>{if(!o.isHydrating||!o.payload.serverRendered)return p("error",e),o.hooks.callHook("vue:error",e,u,d),n.value=e,!1});function t(){n.value=null}return()=>{var e,u;return n.value?(e=r.error)==null?void 0:e.call(r,{error:n,clearError:t}):(u=r.default)==null?void 0:u.call(r)}}});export{v as _};
+//# sourceMappingURL=J-riIzC_.js.map

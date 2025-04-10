@@ -1,0 +1,1 @@
+No Content: webpack://online_chat_bundle/cabinet/vue/interface/draggableResizable/DraggableResizable.vue
